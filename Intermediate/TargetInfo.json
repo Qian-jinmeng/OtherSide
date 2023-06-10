@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OtherSide",
+			"Path": "D:\\huang\\Projects\\UE4\\OtherSide\\Source\\OtherSide.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OtherSideEditor",
+			"Path": "D:\\huang\\Projects\\UE4\\OtherSide\\Source\\OtherSideEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

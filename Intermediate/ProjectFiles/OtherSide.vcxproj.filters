@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OtherSide.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AA562066-17A8-4318-B0CF-2A60E856C0F9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OtherSide.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OtherSideEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C89FB637-1E7A-4606-84C0-4A63552FE44F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OtherSide">
+      <UniqueIdentifier>{3217E472-ADEC-478B-AB68-BF3817BAC99A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OtherSide\OtherSide.Build.cs">
+      <Filter>Source\OtherSide</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OtherSide\OtherSide.cpp">
+      <Filter>Source\OtherSide</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OtherSide\OtherSide.h">
+      <Filter>Source\OtherSide</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OtherSide\OtherSideGameModeBase.cpp">
+      <Filter>Source\OtherSide</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OtherSide\OtherSideGameModeBase.h">
+      <Filter>Source\OtherSide</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OtherSide\PlayerCharacter.cpp">
+      <Filter>Source\OtherSide</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OtherSide\PlayerCharacter.h">
+      <Filter>Source\OtherSide</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

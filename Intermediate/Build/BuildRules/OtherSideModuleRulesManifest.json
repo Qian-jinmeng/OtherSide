@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\huang\\Projects\\UE4\\OtherSide\\Source\\OtherSide\\OtherSide.Build.cs",
+		"D:\\huang\\Projects\\UE4\\OtherSide\\Source\\OtherSide.Target.cs",
+		"D:\\huang\\Projects\\UE4\\OtherSide\\Source\\OtherSideEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

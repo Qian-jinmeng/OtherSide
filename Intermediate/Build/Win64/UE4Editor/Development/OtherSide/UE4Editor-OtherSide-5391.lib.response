@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OtherSide-5391.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\OtherSideEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\OtherSide.cpp.obj"
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\OtherSideGameModeBase.cpp.obj"
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\PlayerCharacter.cpp.obj"
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\OtherSide.init.gen.cpp.obj"
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\OtherSideGameModeBase.gen.cpp.obj"
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\PlayerCharacter.gen.cpp.obj"
+"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\Default.rc2.res"
+/OUT:"D:\huang\Projects\UE4\OtherSide\Intermediate\Build\Win64\UE4Editor\Development\OtherSide\UE4Editor-OtherSide-5391.lib"
